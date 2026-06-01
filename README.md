@@ -1,8 +1,6 @@
 # task-3-dashboard-design
 Walmart Sales Performance Analysis Dashboard
 
-# Task 3 - Dashboard Design
-
 ## Project Title
 Walmart Sales Performance Analysis Dashboard
 
